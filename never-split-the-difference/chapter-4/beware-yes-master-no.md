@@ -82,7 +82,7 @@
     5. moves everyone's efforts forward
     6. get other's attention
         * ask question that you know is not truth.
-            * "So it seems hat you really are eager to leave your job."
+            * "So it seems that you really are eager to leave your job."
 
 ## Email Magic: How Never to be Ignored Again
 * situation
@@ -97,5 +97,5 @@
     * makes counterpart feel safe and in control
     * no !== end of the negotiation, just ask why?
     * "no" can force your counterpart to response
+        * "It seems that you are walking away from the project?"
     * persuasion is that you make your counterpart to do what you want and think the idea comes from their own
-    * 

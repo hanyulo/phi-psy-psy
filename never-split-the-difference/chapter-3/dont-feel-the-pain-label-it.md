@@ -25,7 +25,7 @@
         * also get insights of the feeling
             * goal: increase your influence in all the moments
 
-*  empathy in physiology
+* empathy in physiology
     * neural resonance: observe person's face, gestures, and tone of voice, observer's brain begins to align with counterpart
 
 ## Labeling
@@ -99,7 +99,7 @@
 * Grandpa Scenario
     * solution:
         1. label
-            * "We don't see each other all the often, It seems like you fell like we don't pay any attention to you and you only see us once a year, so why should you make time for us? "
+            * "We don't see each other all the often, It seems like you feel like we don't pay any attention to you and you only see us once a year, so why should you make time for us? "
         2. pause
         3. offer positive solution
             * "For us this is a real treat. We want to hear what you have to talk about. We want to value this time with you because we feel left out of your life."
@@ -116,7 +116,7 @@
             * aggressive
             * impersonal
         * content
-            * "We have contaacted you for several months and I wan to inform you that in order to receive your tickets for the upcoming season opener against the , you will need to pay your outstanding balance in full prior to Septermber 10"
+            * "We have contacted you for several months and I want to inform you that in order to receive your tickets for the upcoming season opener against the , you will need to pay your outstanding balance in full prior to September 10"
     * Label Script
         * feature
             * label negativity directly, explicitly
@@ -139,7 +139,7 @@
 * example
     * context: found-raiser v.s potential fastidious donor. The donor keep rejecting presented project to donate
     * label
-        * label fear of C's money being used inappropriated
+        * label fear of C's money being used inappropriately
             * FR: "I'm sensing some hesitation with these project."
             * C: "I wan my gift to directly support programming for Girl Scouts and not anything else."
         * Label: the presence of donor is driven by very specific memories of being a little Girl Scout and how it changed her life.
@@ -152,7 +152,7 @@
         * hard to find the right match for the donor (project)
     * underlying emotion/obstacle
         * the donor need to feel that she was understood
-            * the person handler her money need to understand what Girl Scout means to her
+            * the person handle her money need to understand what Girl Scout means to her
 
 ## Do an Accusation Audit - Take the Sting Out
 * Accusation Audit

@@ -26,7 +26,7 @@
             * Prospect Theory
                 * people take unwarranted risk in the face of uncertain losses
             * Loss Aversion
-                * people are more likely to act to averet a loss than to achieve an equaly gain
+                * people are more likely to act to avert a loss than to achieve an equal gain
     * system two: logic
         * slow
         * deliberative
@@ -63,6 +63,6 @@
 * Bargain with devil: when to negotiate when to fight
 * [Getting to Yes](https://www.books.com.tw/products/F012407983?gclid=CjwKCAiAv4n9BRA9EiwA30WNDyQPQoGTdbV9S0X1KOClbrGjok2P86FeFi6RJQ4S8WKD1bi0mqzykBoCXmcQAvD_BwE)
     * logic
-    * Roger Fisher and William Ury
+    * **Roger Fisher** and William Ury
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
     * emotion
