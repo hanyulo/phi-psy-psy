@@ -137,3 +137,22 @@
 
 
 ## Negotiate a better salary
+* get higher salary
+    * be pleasant persistence
+    * ask about non-salary terms
+* define your success metrics
+    * definer what you want
+* Spark their interest in your success
+    * bend interviewer's reality so that he/she will believe recruit you will be their own interest to show that they are good at selecting people
+        * example:
+            * "ask how to become success in the role?"
+            * "what does it take to be successful to be here"
+                * get a free mentor
+
+* tips
+    * ask about non-monetary terms and wait for the counter part to talk first
+    * anchor their emotion first
+    * create empathy
+    * odd number, range
+    * request fairness
+    *
